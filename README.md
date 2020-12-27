@@ -11,6 +11,6 @@ learning to predict the future confirmed cases for 7 days of COVID-19 using "fbp
 
 - Here i have used two data sets, I have not uploaded those datasets in this repository because i can't update them daily.
   So, here i will tell you about the source of those datasets :-
-1) Covid cases in india.xlsx :- I have taken this dataset from "https://www.mohfw.gov.in/" this website.This dataset is required to analye the performance of indian 
+1) Covid cases in india.xlsx :- I have taken this dataset from "https://www.mohfw.gov.in/". This dataset is required to analye the performance of indian 
 states against COVID-19.
 2) covid_cases.csv :- This dataset is used in forecasting the future covid-19 cases. I have taken this dataset from "https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series". 
